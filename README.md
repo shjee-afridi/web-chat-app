@@ -13,7 +13,7 @@
 
 ## 📸 Application Screenshot
 
-![Chat Web App Screenshot](https://cdn.discordapp.com/attachments/1115482290190032917/1392184499567067259/Screenshot_20250708-214249_Chrome.jpg?ex=686e9c5a&is=686d4ada&hm=5164f6eb102bb91b766970b6518945ef5cca702389876fcf131e8d4824b71720&)
+![Chat Web App Screenshot](https://cdn.discordapp.com/attachments/1115482290190032917/1392188918639755428/Screenshot_20250708-215952_Chrome.jpg?ex=686ea077&is=686d4ef7&hm=917e7d878279decbb3a7fe2b9201173472bfb8ecceb8a1f45905978f934ad437&)
 
 ---
 
