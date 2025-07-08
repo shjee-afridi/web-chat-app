@@ -254,10 +254,8 @@ This project was built as my first React.js application, demonstrating practical
 
 ## 📞 Contact
 
-- **Portfolio**: [Your Portfolio URL]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [your.email@example.com]
-- **GitHub**: [Your GitHub Profile]
+- **LinkedIn**: https://www.linkedin.com/in/shjee-afridi
+- **GitHub**: https://github.com/shjee-afridi
 
 ---
 
